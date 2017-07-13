@@ -1,0 +1,328 @@
+# Copyright (C) 2016 Followize
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Followize Extension - Gravity Forms 0.1.0\n"
+"Report-Msgid-Bugs-To: "
+"http://wordpress.org/support/plugin/followize-extension-gf\n"
+"POT-Creation-Date: 2016-12-06 23:57:58+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.4.9\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: Brazil\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c;_nc:1,2;_x:1,"
+"2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: Helper/utils.helper.php:14
+msgid "Nome do cliente"
+msgstr ""
+
+#: Helper/utils.helper.php:18
+msgid "E-mail do cliente"
+msgstr ""
+
+#: Helper/utils.helper.php:22
+msgid "Mensagem"
+msgstr ""
+
+#: Helper/utils.helper.php:26
+msgid "Telefone do cliente"
+msgstr ""
+
+#: Helper/utils.helper.php:30
+msgid "Celular do cliente"
+msgstr ""
+
+#: Helper/utils.helper.php:34
+msgid "Endereço do cliente"
+msgstr ""
+
+#: Helper/utils.helper.php:38
+msgid "Complemento do endereço do cliente"
+msgstr ""
+
+#: Helper/utils.helper.php:42
+msgid "Bairro do cliente"
+msgstr ""
+
+#: Helper/utils.helper.php:46
+msgid "Cidade do cliente"
+msgstr ""
+
+#: Helper/utils.helper.php:50
+msgid "Estado do cliente"
+msgstr ""
+
+#: Helper/utils.helper.php:54
+msgid "País do cliente"
+msgstr ""
+
+#: Helper/utils.helper.php:58
+msgid "CEP do cliente"
+msgstr ""
+
+#: Helper/utils.helper.php:62
+msgid "CPF do cliente"
+msgstr ""
+
+#: Helper/utils.helper.php:66
+msgid "Cargo do cliente"
+msgstr ""
+
+#: Helper/utils.helper.php:70
+msgid "Nome da empresa do cliente"
+msgstr ""
+
+#: Helper/utils.helper.php:74
+msgid "Website do cliente"
+msgstr ""
+
+#: Helper/utils.helper.php:78
+msgid "CNPJ da empresa do cliente"
+msgstr ""
+
+#: Helper/utils.helper.php:82
+msgid "Usuário no Twitter do cliente"
+msgstr ""
+
+#: Helper/utils.helper.php:86
+msgid "Usuário no Facebook do cliente"
+msgstr ""
+
+#: Helper/utils.helper.php:90
+msgid "Usuário no LinkedIn do cliente"
+msgstr ""
+
+#: Helper/utils.helper.php:94
+msgid "Usuário no Google Plus do cliente"
+msgstr ""
+
+#: Helper/utils.helper.php:98
+msgid "Usuário no Skype do cliente"
+msgstr ""
+
+#: Helper/utils.helper.php:102
+msgid "Número de telefone cadastrado no Whatsapp do cliente"
+msgstr ""
+
+#: Helper/utils.helper.php:106
+msgid "Cliente aceita ou não receber email marketing"
+msgstr ""
+
+#: Helper/utils.helper.php:110
+msgid "ID do produto cadastrado no Followize"
+msgstr ""
+
+#: Helper/utils.helper.php:114
+msgid "Título do produto"
+msgstr ""
+
+#: Helper/utils.helper.php:118
+msgid "ID de referência do produto cadastrado no site e/ou ERP próprio"
+msgstr ""
+
+#: Helper/utils.helper.php:122
+msgid "ID da categoria cadastrada no Followize"
+msgstr ""
+
+#: Helper/utils.helper.php:126
+msgid "Título da categoria"
+msgstr ""
+
+#: Helper/utils.helper.php:130
+msgid "ID de referência da categoria cadastrada no site e/ou ERP próprio"
+msgstr ""
+
+#: Helper/utils.helper.php:134
+msgid "ID da marca cadastrada no Followize"
+msgstr ""
+
+#: Helper/utils.helper.php:138
+msgid "Título da marca"
+msgstr ""
+
+#: Helper/utils.helper.php:142
+msgid "ID de referência da marca cadastrada no site e/ou ERP próprio"
+msgstr ""
+
+#: Helper/utils.helper.php:146
+msgid "ID da unidade cadastrada no Followize"
+msgstr ""
+
+#: Helper/utils.helper.php:150
+msgid "Título da unidade"
+msgstr ""
+
+#: Helper/utils.helper.php:154
+msgid "ID de referência da unidade cadastrada no site e/ou ERP próprio"
+msgstr ""
+
+#: Helper/utils.helper.php:163
+msgid "Um ou mais campos obrigatórios não enviados."
+msgstr ""
+
+#: Helper/utils.helper.php:164
+msgid "Chave de cliente inválida."
+msgstr ""
+
+#: Helper/utils.helper.php:165
+msgid "Chave de equipe inválida."
+msgstr ""
+
+#: Helper/utils.helper.php:166
+msgid "Falha ao cadastrar o contato."
+msgstr ""
+
+#: Helper/utils.helper.php:167
+msgid "Nenhum atendente encontrado na equipe enviada."
+msgstr ""
+
+#: Helper/utils.helper.php:168
+msgid "Falha ao cadastrar a conversão."
+msgstr ""
+
+#: Helper/utils.helper.php:169
+msgid "Erro não tratado."
+msgstr ""
+
+#: class-gf-followize.php:74
+msgid "Chave de integração"
+msgstr ""
+
+#: class-gf-followize.php:76
+msgid ""
+"As chaves necessárias para a integração podem ser geradas e encontradas "
+"através desta URL: %s"
+msgstr ""
+
+#: class-gf-followize.php:82
+msgid "Configure aqui a chave \"Cliente\"."
+msgstr ""
+
+#: class-gf-followize.php:83
+msgid "Cliente"
+msgstr ""
+
+#: class-gf-followize.php:101 class-gf-followize.php:114
+#: class-gf-followize.php:118
+msgid "Nome"
+msgstr ""
+
+#: class-gf-followize.php:102 class-gf-followize.php:122
+#: class-gf-followize.php:126
+msgid "Chave da Equipe"
+msgstr ""
+
+#: class-gf-followize.php:110
+msgid "Followize Feed Configurações"
+msgstr ""
+
+#: class-gf-followize.php:118
+msgid "Entre com um nome único para identificar este feed."
+msgstr ""
+
+#: class-gf-followize.php:126
+msgid "Ex.: Vendas: abbf8070add9022944a0be8ee55ce1a2"
+msgstr ""
+
+#: class-gf-followize.php:130 class-gf-followize.php:135
+msgid "Ponto de conversão"
+msgstr ""
+
+#: class-gf-followize.php:135
+msgid "Ex.: Página de produtos"
+msgstr ""
+
+#: class-gf-followize.php:139 class-gf-followize.php:142
+msgid "Campos mapeados"
+msgstr ""
+
+#: class-gf-followize.php:142
+msgid "Associe os campos da Followize com os campos apropriados do seu formulário."
+msgstr ""
+
+#: class-gf-followize.php:146 class-gf-followize.php:148
+msgid "Campos personalizados"
+msgstr ""
+
+#: class-gf-followize.php:148
+msgid ""
+"Crie cada campo personalizado com um título para identifica-lo, então "
+"associe com campos apropriados do seu formulário."
+msgstr ""
+
+#: class-gf-followize.php:152 class-gf-followize.php:154
+msgid "Condicional lógica"
+msgstr ""
+
+#: class-gf-followize.php:154
+msgid ""
+"Quando a condicional logica está ativada, o lead só será capturado quando "
+"as condições forem atendidas."
+msgstr ""
+
+#: class-gf-followize.php:179
+msgid "(): a requisição falhou!"
+msgstr ""
+
+#: class-gf-followize.php:188
+msgid "%s (): Fields => %s, erro: %s"
+msgstr ""
+
+#: class-gf-followize.php:218
+msgid "Form Title"
+msgstr ""
+
+#: class-gf-followize.php:221
+msgid "Entry Date"
+msgstr ""
+
+#: class-gf-followize.php:224
+msgid "User IP"
+msgstr ""
+
+#: class-gf-followize.php:227
+msgid "Source Url"
+msgstr ""
+
+#: class-gf-followize.php:230
+msgid "Entry ID"
+msgstr ""
+
+#: class-gf-followize.php:282
+msgid " | Campos customizados: "
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Followize Extension - Gravity Forms"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.followize.com.br/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Extensão do Gravity Forms para integração com o Followize. Desenvolvido "
+"para grandes, médias e pequenas empresas que recebem leads através da "
+"internet, o Followize é capaz de organizar, padronizar o processo de "
+"atendimento e analisar o desempenho da equipe comercial e ações de "
+"marketing de uma maneira objetiva, possibilitando mais produtividade e, é "
+"claro, mais lucros."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Followize"
+msgstr ""
